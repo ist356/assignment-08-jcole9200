@@ -7,3 +7,4 @@ geopandas[all]
 mapclassify
 folium
 streamlit-folium
+pytest
