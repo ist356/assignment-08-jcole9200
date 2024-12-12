@@ -23,3 +23,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+This assignment taught me how to process and analyze real world data by building an ETL pipeline. By breaking down the task into separate functions, I learned to structure a program that extracts interesting insights, such as identifying high fine locations and mapping their geographic coordinates. Additionally, filtering and visualizing data through tools like pandas reinforced my ability to handle large datasets and create actionable outputs. The dashboard components emphasized the importance of visualizing data in an interactive and user friendly way. Overall, this project deepened my understanding of data processing, visualization, and the practical applications of Python in data analytics.
